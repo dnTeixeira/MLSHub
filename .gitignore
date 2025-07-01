@@ -1,0 +1,94 @@
+# Created by https://www.toptal.com/developers/gitignore/api/swift
+# Edit at https://www.toptal.com/developers/gitignore?templates=swift
+
+### Swift ###
+# Xcode
+#
+# gitignore contributors: remember to keep this file in sync with
+# https://github.com/github/gitignore/blob/main/Global/Xcode.gitignore
+
+## User-specific files
+*.xcuserdatad
+*.xcworkspace
+*.xccheckout
+
+## Build generated
+build/
+Build/
+DerivedData/
+*.o
+*.a
+*.so
+*.lo
+*.la
+*.dylib
+*.dll
+*.pch
+*.gch
+*.dia
+
+## Swift Package Manager
+#
+# Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
+# Packages/
+# Package.resolved
+.build/
+.swiftpm/
+
+## Carthage
+#
+# Add this line if you want to avoid checking in source code from Carthage dependencies.
+# Carthage/Checkouts
+Carthage/Build
+
+## CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
+#
+# Pods/
+#
+# Add this line if you want to avoid checking in source code from any private CocoaPods.
+# Pods/!PrivatePodspecName
+
+## Other
+*.moved-aside
+*.swp
+*~.nib
+
+## macOS
+#
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# My Custom Additions for Security
+#
+# Use an Xcode Configuration (xcconfig) file for your API keys
+# and add that file's name here to prevent it from being uploaded.
+Secrets.xcconfig
+*.plist
