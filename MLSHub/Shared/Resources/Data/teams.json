@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "name": "Inter Miami",
+        "conference": "Eastern",
+        "logo": "InterMiami",
+        "playerImage": "Messi",
+        "colors": {
+            "primary": "#FF97C1",
+            "secondary": "#593644"
+        },
+        "stadium": "Chase Stadium"
+    },
+    {
+        "id": 2,
+        "name": "Orlando City",
+        "conference": "Eastern",
+        "logo": "OrlandoCity",
+        "playerImage": "Pasalic",
+        "colors": {
+            "primary": "#813BA1",
+            "secondary": "#3E1651"
+        },
+        "stadium": "Inter&Co Stadium"
+    },
+    {
+        "id": 3,
+        "name": "Atlanta United",
+        "conference": "Eastern",
+        "logo": "AtlantaUnited",
+        "playerImage": "Almiron",
+        "colors": {
+            "primary": "#AA1212",
+            "secondary": "#550B0B"
+        },
+        "stadium": "Mercedes-Benz Stadium"
+    },
+    {
+        "id": 4,
+        "name": "Nashville SC",
+        "conference": "Eastern",
+        "logo": "Nashville",
+        "playerImage": "Muktar",
+        "colors": {
+            "primary": "#A1953B",
+            "secondary": "#655C19"
+        },
+        "stadium": "Geodis Park"
+    },
+    {
+        "id": 5,
+        "name": "Charlotte FC",
+        "conference": "Eastern",
+        "logo": "Charlotte",
+        "playerImage": "Biel",
+        "colors": {
+            "primary": "#1E86C5",
+            "secondary": "#174E70"
+        },
+        "stadium": "Bank of America Stadium"
+    },
+    {
+        "id": 6,
+        "name": "Chicago Fire",
+        "conference": "Eastern",
+        "logo": "ChicagoFire",
+        "playerImage": "Cuypers",
+        "colors": {
+            "primary": "#6EC3E8",
+            "secondary": "#35687E"
+        },
+        "stadium": "Soldier Field"
+    },
+    {
+        "id": 7,
+        "name": "FC Cincinnati",
+        "conference": "Eastern",
+        "logo": "Cincinnati",
+        "playerImage": "Orellano",
+        "colors": {
+            "primary": "#EE5323",
+            "secondary": "#882F14"
+        },
+        "stadium": "TQL Stadium"
+    },
+    {
+        "id": 8,
+        "name": "Columbus Crew",
+        "conference": "Eastern",
+        "logo": "ColumbusCrew",
+        "playerImage": "Rossi",
+        "colors": {
+            "primary": "#FEDD00",
+            "secondary": "#827100"
+        },
+        "stadium": "Lower.com Field"
+    },
+    {
+        "id": 9,
+        "name": "DC United",
+        "conference": "Eastern",
+        "logo": "DCUnited",
+        "playerImage": "Benteke",
+        "colors": {
+            "primary": "#ED252C",
+            "secondary": "#83191C"
+        },
+        "stadium": "Audi Field"
+    },
+    {
+        "id": 10,
+        "name": "CF Montreal",
+        "conference": "Eastern",
+        "logo": "Montreal",
+        "playerImage": "Saliba",
+        "colors": {
+            "primary": "#0C3BA0",
+            "secondary": "#0A2560"
+        },
+        "stadium": "Saputo Stadium"
+    },
+    {
+        "id": 11,
+        "name": "New England Revolution",
+        "conference": "Eastern",
+        "logo": "NewEnglandRevolution",
+        "playerImage": "Gil",
+        "colors": {
+            "primary": "#0D4488",
+            "secondary": "#0A3265"
+        },
+        "stadium": "Gillette Stadium"
+    },
+    {
+        "id": 12,
+        "name": "New York City",
+        "conference": "Eastern",
+        "logo": "NewYorkCity",
+        "playerImage": "Alonso",
+        "colors": {
+            "primary": "#9CCEFB",
+            "secondary": "#475C70"
+        },
+        "stadium": "Yankee Stadium"
+    },
+    {
+        "id": 13,
+        "name": "New York RB",
+        "conference": "Eastern",
+        "logo": "NewYorkRedBulls",
+        "playerImage": "Choupo",
+        "colors": {
+            "primary": "#A9211F",
+            "secondary": "#771B1A"
+        },
+        "stadium": "Sports Illustrated Stadium"
+    },
+    {
+        "id": 14,
+        "name": "Philadelphia Union",
+        "conference": "Eastern",
+        "logo": "PhiladelphiaUnion",
+        "playerImage": "Baribo",
+        "colors": {
+            "primary": "#8F8169",
+            "secondary": "#5E5545"
+        },
+        "stadium": "Subaru Park"
+    },
+    {
+        "id": 15,
+        "name": "Toronto FC",
+        "conference": "Eastern",
+        "logo": "Toronto",
+        "playerImage": "Bernardeschi",
+        "colors": {
+            "primary": "#E21A37",
+            "secondary": "#811121"
+        },
+        "stadium": "BMO Field"
+    },
+    {
+        "id": 16,
+        "name": "Austin FC",
+        "conference": "Western",
+        "logo": "Austin",
+        "playerImage": "Vazquez",
+        "colors": {
+            "primary": "#05AD40",
+            "secondary": "#00571F"
+        },
+        "stadium": "Q2 Stadium"
+    },
+    {
+        "id": 17,
+        "name": "FC Dallas",
+        "conference": "Western",
+        "logo": "Dallas",
+        "playerImage": "Acosta",
+        "colors": {
+            "primary": "#D8314A",
+            "secondary": "#7B1C2A"
+        },
+        "stadium": "Toyota Stadium"
+    },
+    {
+        "id": 18,
+        "name": "Houston Dynamo",
+        "conference": "Western",
+        "logo": "HoustonDynamo",
+        "playerImage": "Ponce",
+        "colors": {
+            "primary": "#FF6B01",
+            "secondary": "#692C01"
+        },
+        "stadium": "Shell Energy Stadium"
+    },
+    {
+        "id": 19,
+        "name": "Colorado Rapids",
+        "conference": "Western",
+        "logo": "ColoradoRapids",
+        "playerImage": "Navarro",
+        "colors": {
+            "primary": "#8C2836",
+            "secondary": "#531821"
+        },
+        "stadium": "Dick's Sporting Goods Park"
+    },
+    {
+        "id": 20,
+        "name": "LA Galaxy",
+        "conference": "Western",
+        "logo": "LAGalaxy",
+        "playerImage": "Pec",
+        "colors": {
+            "primary": "#1F4588",
+            "secondary": "#10254A"
+        },
+        "stadium": "Dignity Health Sports Park"
+    },
+    {
+        "id": 21,
+        "name": "LA FC",
+        "conference": "Western",
+        "logo": "LAFC",
+        "playerImage": "Giroud",
+        "colors": {
+            "primary": "#C39D6C",
+            "secondary": "#655239"
+        },
+        "stadium": "BMO Stadium"
+    },
+    {
+        "id": 22,
+        "name": "Minnesota United",
+        "conference": "Western",
+        "logo": "MinnesotaUnited",
+        "playerImage": "Oluwaseyi",
+        "colors": {
+            "primary": "#8CD2F4",
+            "secondary": "#496C7D"
+        },
+        "stadium": "Allianz Field"
+    },
+    {
+        "id": 23,
+        "name": "Portland Timbers",
+        "conference": "Western",
+        "logo": "PortlandTimbers",
+        "playerImage": "Evander",
+        "colors": {
+            "primary": "#1D9341",
+            "secondary": "#0F5123"
+        },
+        "stadium": "Providence Park"
+    },
+    {
+        "id": 24,
+        "name": "Real Salt Lake",
+        "conference": "Western",
+        "logo": "RealSaltLake",
+        "playerImage": "Luna",
+        "colors": {
+            "primary": "#0048A2",
+            "secondary": "#002B60"
+        },
+        "stadium": "America First Field"
+    },
+    {
+        "id": 25,
+        "name": "San Diego FC",
+        "conference": "Western",
+        "logo": "SanDiego",
+        "playerImage": "Dreyer",
+        "colors": {
+            "primary": "#0048A2",
+            "secondary": "#002B60"
+        },
+        "stadium": "Snapdragon Stadium"
+    },
+    {
+        "id": 26,
+        "name": "San Jose Earthquakes",
+        "conference": "Western",
+        "logo": "SJEarthquakes",
+        "playerImage": "Martinez",
+        "colors": {
+            "primary": "#0067B1",
+            "secondary": "#003A65"
+        },
+        "stadium": "PayPal Park"
+    },
+    {
+        "id": 27,
+        "name": "Seattle Sounders",
+        "conference": "Western",
+        "logo": "SeattleSounders",
+        "playerImage": "Morris",
+        "colors": {
+            "primary": "#2DC84D",
+            "secondary": "#176327"
+        },
+        "stadium": ""
+    },
+    {
+        "id": 28,
+        "name": "Sporting Kansas City",
+        "conference": "Western",
+        "logo": "SportingKC",
+        "playerImage": "Thommy",
+        "colors": {
+            "primary": "#013778",
+            "secondary": "#002755"
+        },
+        "stadium": "Children's Mercy Park"
+    },
+    {
+        "id": 29,
+        "name": "St Louis City",
+        "conference": "Western",
+        "logo": "StLouisCity",
+        "playerImage": "Burki",
+        "colors": {
+            "primary": "#DD004A",
+            "secondary": "#80002B"
+        },
+        "stadium": "Energizer Park"
+    },
+    {
+        "id": 30,
+        "name": "Vancouver Whitecaps",
+        "conference": "Western",
+        "logo": "VancouverWhitecaps",
+        "playerImage": "Gauld",
+        "colors": {
+            "primary": "#013383",
+            "secondary": "#002258"
+        },
+        "stadium": "BC Place"
+    }
+]
